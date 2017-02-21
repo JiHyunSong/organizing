@@ -1,6 +1,6 @@
-# Get involved
+# 시작하기
 
-ClojureBridge aims to increase diversity within the Clojure community by offering free, beginner-friendly Clojure programming workshops for underrepresented groups in tech.
+클로저 브릿지(ClojureBridge) ~~~~
 
 
 Early workshops focused on women. Organizers are free to choose a different underrepresented group when planning a workshop. A workshop's description should state the group or groups for which the workshop is to be held.
